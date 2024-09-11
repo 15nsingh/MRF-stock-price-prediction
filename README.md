@@ -1,1 +1,1 @@
-# Data-science-projects
+# MRF stock price prediction
